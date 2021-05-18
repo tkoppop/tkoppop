@@ -5,11 +5,11 @@
 💼 What I'm up to.
     - As of May, 2021 i'm working @GlotmanSimpsonConsultingEngineers as an IT Technician helping engineers and architects on their new Oakridge Project
 
-🔭 I’m currently working on a Chatbot that learns the more its interacted with. Writted in Java.
+✍ I’m currently working on a Chatbot that learns the more its interacted with. Writted in Java.
 
-🌱 I’m currently learning how to use Django in Python for experience in backend.
+🧠 I’m currently learning how to use Django in Python for experience in backend.
 
-👯 I’m currently collaborating with @limitedgit and @guanmatt on number handwriting detection Ai in React (hwwebsite).
+🤝 I’m currently collaborating with @limitedgit and @guanmatt on number handwriting detection Ai in React (hwwebsite).
 
 📫 How to reach me:
   https://www.facebook.com/luke.wung/
