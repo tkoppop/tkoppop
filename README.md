@@ -11,9 +11,8 @@
 
 🤝 I’m currently collaborating with @limitedgit and @guanmatt on number handwriting detection Ai in React (hwwebsite).
 
-📫 How to reach me:
-  https://www.facebook.com/luke.wung/
-  lucaswung2016@gmail.com
+📫 How to reach me: 
+  lucaswung2016@gmail.com, 
   (587)-707-4467
   
   
