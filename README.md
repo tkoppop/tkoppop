@@ -7,11 +7,16 @@
 
 🔭 I’m currently working on a Chatbot that learns the more its interacted with. Writted in Java.
 
-🌱 I’m currently learning how to use JavaScript efficiently using React.
+🌱 I’m currently learning how to use Django in Python for experience in backend.
 
-👯 I’m currently collaborating with @limitedgit and @guanmatt on image number detection Ai in React.
+👯 I’m currently collaborating with @limitedgit and @guanmatt on number handwriting detection Ai in React (hwwebsite).
 
-
+📫 How to reach me:
+  https://www.facebook.com/luke.wung/
+  lucaswung2016@gmail.com
+  (587)-707-4467
+  
+  
 
 
 <!--
@@ -24,7 +29,7 @@ Here are some ideas to get you started:
 -  ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+-  ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
