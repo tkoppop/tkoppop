@@ -2,12 +2,12 @@
 
   My name is Lucas Wung and I am currently working as an IT Technician @GlotmanSimpsonConsultingEngineers. I'm usually pretty busy but I always have time for some projects :D
   
-💼 What I'm up to.
-    - As of May, 2021 i'm working @GlotmanSimpsonConsultingEngineers as an IT Technician helping engineers and architects on their new Oakridge Project
+💼 What I'm up to:
+    - As of May, 2021 I'm working @GlotmanSimpsonConsultingEngineers as an IT Technician helping engineers and architects on their new Oakridge Project
 
-✍ I’m currently working on a Chatbot that learns the more its interacted with. Writted in Java.
+✍ I’m currently working on a Chatbot that learns the more its interacted with. (Java)
 
-🧠 I’m currently learning how to use Django in Python for experience in backend.
+🧠 I’m currently learning how to use Django in Python for experience in backend development.
 
 🤝 I’m currently collaborating with @limitedgit and @guanmatt on number handwriting detection Ai in React (hwwebsite).
 
