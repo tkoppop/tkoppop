@@ -14,8 +14,8 @@
 
 📫 How to reach me: 
 
-  lucaswung2016@gmail.com, 
-  (587)-707-4467
+    lucaswung2016@gmail.com, 
+    (587)-707-4467
   
   
 ✨Top Projects Below:
