@@ -3,6 +3,7 @@
   My name is Lucas Wung and I am currently working as an IT Technician @GlotmanSimpsonConsultingEngineers. I'm usually pretty busy but I always have time for some projects :D
   
 💼 What I'm up to:
+
     - As of May, 2021 I'm working @GlotmanSimpsonConsultingEngineers as an IT Technician helping engineers and architects on their new Oakridge Project
 
 ✍ I’m currently working on a Chatbot that learns the more its interacted with. (Java)
@@ -12,6 +13,7 @@
 🤝 I’m currently collaborating with @limitedgit and @guanmatt on number handwriting detection Ai in React (hwwebsite).
 
 📫 How to reach me: 
+
   lucaswung2016@gmail.com, 
   (587)-707-4467
   
