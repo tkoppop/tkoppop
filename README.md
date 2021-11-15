@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-  My name is Lucas Wung and I am currently working as an IT Technician @GlotmanSimpsonConsultingEngineers. I'm usually pretty busy but I always have time for some projects :D
+  My name is Lucas Wung and I am currently attending UBC with a Major in Computer Science. I'm usually pretty busy but I always have time for some projects :D
   
 💼 What I'm up to:
 
@@ -14,7 +14,7 @@
 
 📫 How to reach me: 
 
-    lucaswung2016@gmail.com, 
+    LxWung@gmail.com, 
     (587)-707-4467
   
   
