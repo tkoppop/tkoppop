@@ -4,8 +4,6 @@
   
 💼 What I'm up to:
 
-   As of Janurary, 2021 I'm working @GlotmanSimpsonConsultingEngineers as a Software Engineering Intern helping engineers and architects on their new Oakridge Project
-
 ✍ I’m currently working on a Chatbot that learns the more its interacted with. (Java)
 
 🧠 I’m currently learning how to use Django in Python for experience in backend development.
